@@ -1,2 +1,2 @@
 # Miora Support Platform 
-A teen mental health support platform concept created for my college application.
+# Miora is a teen mental-health support platform concept created for my college application.
